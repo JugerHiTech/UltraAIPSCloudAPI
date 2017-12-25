@@ -1,0 +1,10 @@
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.deps.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.runtimeconfig.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.runtimeconfig.dev.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.dll
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.pdb
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.csproj.CoreCompileInputs.cache
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.AssemblyInfoInputs.cache
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.AssemblyInfo.cs
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.dll
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Mappers\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Mappers.pdb

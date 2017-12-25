@@ -1,0 +1,5 @@
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=UltraAIPSCloudAPI
+--content-root=D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI
+--file=

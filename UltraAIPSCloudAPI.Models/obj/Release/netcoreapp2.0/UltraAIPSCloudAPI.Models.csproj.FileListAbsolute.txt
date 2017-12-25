@@ -1,0 +1,10 @@
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.deps.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.runtimeconfig.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.runtimeconfig.dev.json
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.dll
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\bin\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.pdb
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.csproj.CoreCompileInputs.cache
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.AssemblyInfoInputs.cache
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.AssemblyInfo.cs
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.dll
+D:\Dev\AspNetCore\UltraAIPSCloudAPI\UltraAIPSCloudAPI.Models\obj\Release\netcoreapp2.0\UltraAIPSCloudAPI.Models.pdb
